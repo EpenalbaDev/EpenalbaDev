@@ -1,18 +1,72 @@
-# 💫 About Me:
-I'm currently working <br>I'm looking to collaborate with others developers<br>I'm currently learing web development<br>Ask me about Backend .Net<br>I'm looking for a team working 
+<!-- HERO -->
+<h1 align="center">Edwin Peñalba (Jimmy) 👋</h1>
+<p align="center">
+  Software Engineer • .NET Backend • AWS • OCR & Document Automation • SaaS Builder
+</p>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/edwinpenalba) 
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=EpenalbaDev&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=EpenalbaDev&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=EpenalbaDev&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://www.linkedin.com/in/edwinpenalba"><img src="https://img.shields.io/badge/LinkedIn-Edwin%20Peñalba-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Email-Contact%20me-111?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=EpenalbaDev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 What I do
+I build **backend systems that remove repetitive work** and turn documents into structured data.
+
+- ⚙️ **Document automation**: legal / invoices / OCR pipelines  
+- 🚀 **SaaS & APIs**: multi-tenant apps, dashboards, integrations  
+- 🔐 **Enterprise mindset**: validation, auditing, observability, reliability
+
+> I care about one thing: **shipping systems that save time and reduce errors.**
+
+---
+
+## 🧩 Featured work (real stuff)
+### ✅ IngresoExacto — Invoice ingestion + OCR (Panama)
+- Inbound email processing (SES) → S3 → Lambda → OCR → MySQL  
+- Extracts Panamanian tax fields (ITBMS, RUC, DV, etc.)  
+- Focus: automation + accounting workflows
+
+🔗 Repo: **(put your repo link here)**
+
+### ✅ Document Generator — Legal docs at scale
+- Generates **200+ legal documents/month** for financial institutions  
+- From Word template hell → **< 1 minute generation + validations**
+
+🔗 Repo / Case study: **(put link here)**
+
+> If you don’t want to show client repos, link to a sanitized demo repo or a case-study page.
+
+---
+
+## 🛠️ Tech I use
+**Backend:** C#, .NET, REST APIs, Auth, Clean Architecture  
+**Cloud:** AWS (Lambda, S3, SES), Azure (when needed)  
+**Data:** MySQL, SQL Server  
+**Web:** HTML, CSS, JS, Bootstrap
+
+<p>
+  <img src="https://img.shields.io/badge/C%23-111?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-111?style=for-the-badge&logo=.net&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-111?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-111?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-111?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+</p>
+
+---
+
+## 🎯 What I’m looking for
+- 🤝 Collaborate on **backend / automation / SaaS** projects
+- 🧱 Join a team that values **engineering + execution**
+- 🧠 Open to roles in **.NET Backend / Cloud Automation**
+
+📩 If you’re building something serious, message me on LinkedIn.
+
+---
+
+## 📈 Stats (optional)
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=EpenalbaDev&show_icons=true&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EpenalbaDev&layout=compact&hide_border=true"/>
+</p>
