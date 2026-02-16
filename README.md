@@ -1,5 +1,5 @@
 <!-- HERO -->
-<h1 align="center">Edwin Peñalba (Jimmy) 👋</h1>
+<h1 align="center">Edwin Peñalba 👋</h1>
 <p align="center">
   Software Engineer • .NET Backend • AWS • OCR & Document Automation • SaaS Builder
 </p>
